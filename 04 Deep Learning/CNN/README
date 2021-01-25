@@ -1,4 +1,4 @@
 # Dataset Resources 📃
-The dataset used to build the CNN
+To build the "CNN-Binary Classification Images" model we used the data of a Kaggle Competition (Dogs vs. Cats - Create an algorithm to distinguish dogs from cats), which is available in the following link:
 
-[Dogs vs. Cats - Create an algorithm to distinguish dogs from cats](https://www.kaggle.com/c/dogs-vs-cats/data)
+https://www.kaggle.com/c/dogs-vs-cats/data
